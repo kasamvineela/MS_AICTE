@@ -1,2 +1,2 @@
-# MS_AICTE
-Augmented reality navigation for visually impaired
+# AR for VIPS-v2.1
+ Augmented Reality for Visually Impaired People 2.1
